@@ -36,7 +36,8 @@
     "@patternfly/react-topology": "^4.91.9",
     "mobx": "^5.15.4",
     "mobx-react": "^6.2.0",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.19",
+    "classnames": "2.x"
   },
   "peerDependencies": {
     "react": "^16.13.1 || ^17.0.0"
